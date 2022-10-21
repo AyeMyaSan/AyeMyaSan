@@ -4,14 +4,9 @@
 
 # <div align="center">🍎welcome to my space🐛 </div>  
   
-
-- I'm passionate web developer.I'm currently open to junior roles I'd also love to connect with other developers here.I love simplicity so I try my best to make things as simple as possible and have always been a curious individual, which is why I’d love to collaborate and do some real-world projects in order to flourish my skills.I'm not perfect, however. I'm very far from perfection, yet I'm resilient, assertive and always ready to learn because I find learning fascinating. I am currently learning more and new Technologies.
-
-
-<br/>  
-
 - :mortar_board: Bachelor Degree in Computer Science
 - 🌱 I would like to be professional, communicative, and inspirational developer.
+- I'm currently open to junior roles I'd also love to connect with other developers here.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
