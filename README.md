@@ -10,7 +10,6 @@
 
 <br/>  
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - :mortar_board: Bachelor Degree in Computer Science
 - 🌱 I would like to be professional, communicative, and inspirational developer.
 
