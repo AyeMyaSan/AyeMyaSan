@@ -1,6 +1,6 @@
 # <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:a6c1ee,100:fbc2eb&height=300&section=header&text=Hi,%20I’m%20Ayemyasan!%20🤗&animation=twinkling&fontSize=40&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:a6c1ee,100:fbc2eb&height=300&section=header&text=Hi,%20I’m%20Ayemyasan!%20&animation=twinkling&fontSize=40&fontColor=fff)
 
 # <div align="center">🍎welcome to my space🐛 </div>  
   
