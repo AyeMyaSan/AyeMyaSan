@@ -10,7 +10,11 @@
 
 <br/>  
 
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- :mortar_board: College student
+- 🌱 Learning Web full stack
+- 🤔 Looking for open source to contribute
+- :video_game: Making a game as a hobby
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
